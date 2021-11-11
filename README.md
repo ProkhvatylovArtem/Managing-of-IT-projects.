@@ -1,2 +1,2 @@
-# University
-All code I need for univesity projects.
+Managing-of-IT-projects
+Repository for Lab 4
