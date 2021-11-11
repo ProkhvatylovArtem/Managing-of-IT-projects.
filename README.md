@@ -1,2 +1,2 @@
-Managing-of-IT-projects
+Managing-of-IT-projects  
 Repository for Lab 4
